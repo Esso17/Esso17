@@ -16,9 +16,6 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-# Most used languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esso17&hide_progress=true)
 <!--
 **Esso17/Esso17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
