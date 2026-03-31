@@ -1,6 +1,6 @@
 ### Hi 👋, i'am Esso 
 
-👨🏿‍💻  Machine Learing Engineer sharing about my journey and learnings in tech<br/>
+👨🏿‍💻  Machine Learing Operations Engineer sharing about my journey and learnings in tech<br/>
 
 # 📊 Github Stats
 [![Esso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esso17&show_icons=true&theme=tokyonight)](https://github.com/Esso17/github-readme-stats)<br/>
